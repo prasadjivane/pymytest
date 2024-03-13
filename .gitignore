@@ -1,0 +1,4 @@
+my_env
+dist
+pymytest.egg-info
+.DS_Store
