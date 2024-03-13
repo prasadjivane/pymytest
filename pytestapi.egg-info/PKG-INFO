@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: pytestapi
-Version: 0.1
-Summary: Python package that allows you to test APIs from the command line
-Home-page: https://github.com/prasadjivane/pytestapi
-Author: Prasad Jivane
-Author-email: prasadjivane@gmail.com
-Requires-Dist: requests

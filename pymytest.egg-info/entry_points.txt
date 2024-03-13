@@ -1,0 +1,2 @@
+[console_scripts]
+pymytest = pymytest.tester_cli:main
