@@ -1,3 +1,7 @@
+
+<img width="700" alt="pymytest" src="https://github.com/prasadjivane/pytestapi/assets/26869583/b9e7800b-1219-4a90-89fd-623079c8a9d1">
+
+
 # pytestapi
 
 `pytestapi` is a Python package that allows you to test APIs from the command line. It returns the API response status code, body, and the time taken for execution.
