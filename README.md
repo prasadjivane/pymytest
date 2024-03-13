@@ -1,5 +1,4 @@
-
-<img width="700" alt="pymytest" src="https://github.com/prasadjivane/pytestapi/assets/26869583/b9e7800b-1219-4a90-89fd-623079c8a9d1">
+<img width="700" alt="pymytest" src="https://github.com/prasadjivane/pymytest/assets/26869583/34f71b86-c96f-4628-815b-32914b8502d3">
 
 
 # pytestapi
