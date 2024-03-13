@@ -3,22 +3,28 @@
 
 # pytestapi
 
-`pytestapi` is a Python package that allows you to test APIs from the command line. It returns the API response status code, body, and the time taken for execution.
+`pymytest` is a Python package that allows you to test APIs from the command line. It returns the API response status code, body, and the time taken for execution.
 
 ## Installation
 
 You can install the package using pip:
 
 ```bash
-pip install pytestapi
+pip install pymytest
 ```
 
 ## Usage
 
-After installation, you can use the pytestapi command followed by the URL of the API you want to test. For example:
+After installation, you can use the pymytest command followed by the URL of the API you want to test. For example: (add your own api)
 
 ```bash 
-pytestapi https://jsonplaceholder.typicode.com/posts/1
+pymytest https://jsonplaceholder.typicode.com/posts/1
+
+pymytest POST https://jsonplaceholder.typicode.com/posts '{"title": "pymytest", "body": "now", "userId": 1}'
+
+pymytest PUT https://jsonplaceholder.typicode.com/posts/1 '{"title": "nnow", "body": "pymytest", "userId": 1}'
+
+pymytest DELETE https://jsonplaceholder.typicode.com/posts/1
 ```
 
 ## Contributing
