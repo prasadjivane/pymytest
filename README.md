@@ -1,7 +1,7 @@
 <img width="700" alt="pymytest" src="https://github.com/prasadjivane/pymytest/assets/26869583/34f71b86-c96f-4628-815b-32914b8502d3">
 
 
-# pytestapi
+# pymytest
 
 `pymytest` is a Python package that allows you to test APIs from the command line. It returns the API response status code, body, and the time taken for execution.
 
@@ -18,7 +18,7 @@ pip install pymytest
 After installation, you can use the pymytest command followed by the URL of the API you want to test. For example: (add your own api)
 
 ```bash 
-pymytest https://jsonplaceholder.typicode.com/posts/1
+pymytest GET https://jsonplaceholder.typicode.com/posts/1
 
 pymytest POST https://jsonplaceholder.typicode.com/posts '{"title": "pymytest", "body": "now", "userId": 1}'
 
