@@ -29,4 +29,4 @@ pymytest DELETE https://jsonplaceholder.typicode.com/posts/1
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request on GitHub.
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request on [GitHub](https://github.com/prasadjivane/pymytest/issues).

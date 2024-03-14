@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="pymytest",
-    version="0.6",
+    version="1.0",
     packages=find_packages(),
     install_requires=[
         "requests",
