@@ -30,3 +30,7 @@ pymytest DELETE https://jsonplaceholder.typicode.com/posts/1
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request on [GitHub](https://github.com/prasadjivane/pymytest/issues).
+
+## License
+
+This project is licensed under the [MIT license](https://github.com/prasadjivane/pymytest?tab=MIT-1-ov-file) - see the LICENSE file for details. pymytest is free and open-source.
